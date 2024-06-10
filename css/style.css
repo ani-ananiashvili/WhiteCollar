@@ -1,0 +1,130 @@
+/* Header Section */
+
+.headerDiv {
+    display: inline-block;
+    width: 100%;
+    height: 65px;
+    text-align: center;
+    margin-top: 53px;
+}
+
+.logoHeader {
+    display: inline-block;
+    font-size: 25px;
+    line-height: 37.5px;
+    font-family: 'Poppins700';
+    color: #37393F;
+    margin-right: 195px;
+}
+
+.navigation {
+    display: inline-block;
+    width: 825px;
+    height: 65px;
+}
+
+.partNav {
+    display: inline-block;
+    width: 601px;
+    height: 22px;
+}
+
+.eachNavLi {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.navLi {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 21.78px;
+    font-family: 'Inter400';
+    color: #37393F;
+}
+
+.lastNavLiDiv {
+    display: inline-block;
+    width: Hug (184px)px;
+    height: Hug (65px)px;
+    padding: 21px 35px 22px 35px;
+    background-color: #6B77E5;
+}
+
+.lastNavLi {
+    font-family: Cabin600;
+    font-size: 18px;
+    line-height: 21.87px;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+/* Work Process Section */
+
+.workProcessDiv {
+    width: Fixed (1, 220px)px;
+    height: Hug (510px)px;
+}
+
+.workProcessDiv {
+    width: Fixed (283px)px;
+    height: Hug (86px)px;
+    text-align: center;
+    margin-top: 136px;
+}
+
+.workProcessTitle {
+    font-family: 'Inter500';
+    font-size: 18px;
+    line-height: 21.78px;
+    color: #37393F;
+}
+
+.howWeWorkTitle {
+    font-family: 'Poppins700';
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.4px;
+    margin: 16px 0px 41px;
+}
+
+.mainDivs {
+    display: inline-block;
+    width: 386px;
+    height: 383px;
+    padding: 58px 43px 58px 43px;
+    background-color: #F4F4F4;
+    margin-right: 31px;
+}
+
+.lastMainDiv {
+    margin-right: 0px;
+}
+
+.divTitles {
+    font-family: 'Poppins600';
+    font-size: 25px;
+    line-height: 31.75px;
+    text-align: center;
+    color: #37393F;
+    margin-bottom: 16px;
+}
+
+.divPs1 {
+    font-family: 'Inter400';
+    font-size: 18px;
+    line-height: 26.31px;
+    text-align: center;
+    color: #7D7D7D;
+    margin-bottom: 37px;
+}
+
+
+.divPs2 {
+    font-family: 'Inter600';
+    font-size: 18px;
+    line-height: 21.78px;
+    text-align: center;
+    color: #6B77E5;
+    margin-bottom: 10px;
+}
