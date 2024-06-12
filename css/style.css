@@ -171,16 +171,15 @@
     margin-bottom: 47px;
 }
 
+
 /* Work Team Section*/
 
-.team {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 16px;
-}
-
-.teamImage {
-    margin-right: 31px;
+.workTeamSection {
+    width: 1220px;
+    height: 659px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 131px;
 }
 
 .ourTeamTitle {
@@ -198,19 +197,46 @@
     font-size: 40px;
     line-height: 48.4px;
     text-align: center;
-    margin-bottom: 41px;
     color: #37393F;
 }
 
-.nameSurname {
+.teamDiv {
+    display: flex;
+    gap: 38.5px;
+    margin-bottom: 131px;
+    margin-top: 41px;
+}
+
+
+.eachExpert {
+    width: 386px;
+    height: 532px;
+    position: relative;
+}
+
+.aboutExperts {
+    width: 341px;
+    height: 114px;
+    background-color: #FFFFFF;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    bottom: -19px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+
+.expertNameSurname {
     font-family: 'Poppins600';
     font-size: 25px;
     line-height: 37.5px;
     text-align: center;
     color: #37393F;
-    margin-top: 24px;
-    margin-bottom: 4px;
 }
+
 
 .profession {
     font-family: 'Inter400';
@@ -218,40 +244,4 @@
     line-height: 24.33px;
     text-align: center;
     color: #7D7D7D;
-}
-
-.lastSection {
-    margin-bottom: 131px;
-}
-
-.nameDiv {
-    width: 341px;
-    height: 114px;
-    background-color: #FFFFFF;
-}
-
-.teamDiv {
-    position: relative;
-}
-
-.namesBox {
-    display: flex;
-    position: absolute;
-    justify-content: center;
-    left: 22px;
-    top: 396px;
-    gap: 10px;
-}
-
-.nameDiv1 {
-    margin-left: 125px;
-}
-
-.nameDiv2 {
-    margin-left: 70px;
-}
-
-.nameDiv3 {
-    margin-left: 60px;
-
 }
