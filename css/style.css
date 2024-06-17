@@ -2,7 +2,6 @@
 
 .headerDiv {
     width: 100%;
-    /* height: 65px; */
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -59,13 +58,6 @@
 /* Work Process Section */
 
 .workProcessDiv {
-    width: Fixed (1, 220px)px;
-    height: Hug (510px)px;
-}
-
-.workProcessDiv {
-    width: Fixed (283px)px;
-    height: Hug (86px)px;
     text-align: center;
     padding-top: 136px;
 }
