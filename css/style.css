@@ -5,11 +5,11 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding-top: 53px;
+    padding-top: 35px;
     top: 0;
     position: fixed;
     z-index: 1;
-    background-color: #FFFFFF;
+    background-color: #FFF;
 }
 
 .logo {
@@ -41,14 +41,12 @@
 }
 
 .lastNavLiDiv {
-    width: 184px;
-    height: 65px;
     padding: 21px 35px 22px 35px;
     background-color: #6B77E5;
 }
 
 .lastNavLi {
-    font-family: Cabin600;
+    font-family: 'Inter600';
     font-size: 18px;
     line-height: 21.87px;
     text-align: center;
@@ -59,7 +57,7 @@
 
 .workProcessDiv {
     text-align: center;
-    padding-top: 136px;
+    padding-top: 120px;
 }
 
 .workProcessTitle {
